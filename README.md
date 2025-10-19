@@ -1,3 +1,7 @@
+## 🖼 App Preview
+
+![App Preview](https://raw.githubusercontent.com/SZtch/lisk-challenge-week1/main/packages/nextjs/public/preview.png)
+
 ## 🇬🇧 Lisk SEA Challenge Week 1 – Deploy & Verify Contracts
 
 This repository is part of the **Lisk SEA Web3 Builder Challenge**.

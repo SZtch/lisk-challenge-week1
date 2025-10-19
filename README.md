@@ -1,3 +1,8 @@
+## 🖼 Preview
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SZtch/lisk-challenge-week1/main/packages/nextjs/public/preview.png" width="600" alt="App Preview" />
+</p>
 
 ## 🇬🇧 Lisk SEA Challenge Week 1 – Deploy & Verify Contracts
 
